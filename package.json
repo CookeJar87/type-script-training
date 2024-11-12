@@ -1,0 +1,27 @@
+{
+  "name": "type-script-training",
+  "version": "1.0.0",
+  "description": "The simplest TypeScript project possible, so that beginners can learn how to use git and GitHub.  The project's goal is to help beginners learn how to use GitHub and to provide a stepping stone into the world of open source.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "npm test"
+  },
+  "keywords": [
+    "typescript",
+    "starter",
+    "help",
+    "wanted",
+    "good",
+    "first",
+    "issue",
+    "learn",
+    "practice"
+  ],
+  "author": "Pete Cooke",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
